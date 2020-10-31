@@ -1,8 +1,0 @@
-﻿  MyForm.cpp
-C:\Users\MooN\source\repos\LR14_OrlovDA2\LR14_OrlovDA2\MyForm.h(190,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Visualisation.cpp
-C:\Users\MooN\source\repos\LR14_OrlovDA2\LR14_OrlovDA2\Visualisation.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\MooN\source\repos\LR14_OrlovDA2\LR14_OrlovDA2\Visualisation.cpp(36,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода...
-  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  LR14_OrlovDA2.vcxproj -> C:\Users\MooN\source\repos\LR14_OrlovDA2\Debug\LR14_OrlovDA2.exe
